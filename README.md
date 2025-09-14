@@ -1,4 +1,5 @@
 📈 Google-Stock-Price-Pridiction
+
   This project predicts **Google stock prices** using a **Linear Regression model**. 
   The dataset includes stock features such as **Open, High, Low, Volume**, and the target variable **Close price**.
   
@@ -27,9 +28,7 @@ actual vs predicted prices are visualized for evaluation.
  📊 Results
 - ✅ Very low prediction error (MSE close to 0)  
 - ✅ High accuracy (R² ~ 0.996)  
-- ✅ The graph showed a comparison between the actual Google stock prices (blue line) and the predicted stock prices (red line) over the test period.
-- The two lines are very close to each other and almost overlap throughout the time series.
-- This indicates that the Linear Regression model was able to capture the stock price patterns very accurately.
+- ✅ The graph showed a comparison between the actual Google stock prices (blue line) and the predicted stock prices (red line) over the test period.The two lines are very close to each other and almost overlap throughout the time series.This indicates that the Linear Regression model was able to capture the stock price patterns very accurately.
 
  🛠️ Technologies Used
 - **Python**  
